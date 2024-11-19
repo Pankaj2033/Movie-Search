@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background: url('/image/1.jpg') no-repeat center center/cover;
+    background: url("../image/1.jpg") no-repeat center center/cover;
     color: #f4f4f4;
     display: flex;
     justify-content: center;
